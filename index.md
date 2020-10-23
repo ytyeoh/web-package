@@ -20,5 +20,5 @@
 - On field product training 1day 
 - FOC First year ( domain + Hosting ) 
 - Renewal RM499/year ( hosting + domain )
-## Seup fee 1 time RM 1500
+## Setup fee 1 time RM 1500
 
