@@ -1,6 +1,3 @@
-## Web Package
-
-
 
 # Website Package
 - Unlimited pages 
